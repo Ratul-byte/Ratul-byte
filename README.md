@@ -1,4 +1,6 @@
 # Hi there 👋, I'm Ratul
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
 
 I’m passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing**, and I enjoy bringing ideas to life with **Python, TensorFlow, Keras**.

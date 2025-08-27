@@ -20,6 +20,6 @@ I also enjoy **Arduino projects, IoT, and creative problem solving**.
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/md-ratul-mushfique)
+- [LinkedIn](https://linkedin.com/in/md-ratul-mushfique)
 - [Portfolio]()
 

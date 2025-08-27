@@ -1,11 +1,14 @@
+<div align="center">
+
 # Hi there 👋, I'm Ratul
-![3AyY.gif](https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif)
 
-### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
+<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="200"/>
 
-I’m passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing**, and I enjoy bringing ideas to life with **Python, TensorFlow, Keras**.
-I also love working on **Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment**.
+I’m passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing**, and I enjoy bringing ideas to life with **Python, TensorFlow, Keras**.  
+I also love working on **Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment**.  
 When I’m not coding, I like experimenting with creative problem solving, design tools like **Figma**, and exploring new technologies.
+
+</div>
 
 ---
 

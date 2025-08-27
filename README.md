@@ -20,7 +20,7 @@ I also enjoy **Arduino projects, IoT, and creative problem solving**.
 ---
 
 ## 🗃️ My Repositories
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/md-ratul-mushfique)

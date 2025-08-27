@@ -10,7 +10,7 @@ I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligen
 - When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies.
 </p>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ratul-byte)
 
 </div>
 

@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there 👋, I'm Ratul
+<h1 style="font-size: 3em;">Hi there 👋, I'm Ratul</h1>
 
-<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="200"/>
+<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="400"/>
 
-I’m passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing**, and I enjoy bringing ideas to life with **Python, TensorFlow, Keras**.  
-I also love working on **Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment**.  
-When I’m not coding, I like experimenting with creative problem solving, design tools like **Figma**, and exploring new technologies.
+<p style="font-size: 1.2em;">
+I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>.<br>
+I also love working on <b>Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment</b>.<br>
+When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies.
+</p>
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <h1 style="font-size: 3em;">Hi there 👋, I'm Ratul</h1>
 
-<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="900"/>
+<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
 <p style="font-size: 2em;">
 I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>.<br>

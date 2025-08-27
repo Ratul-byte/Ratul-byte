@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Ratul
+### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
 
-<!--
-**Ratul-byte/Ratul-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I love working with **Machine Learning, Deep Learning, and Computer Vision**.  
+I also enjoy **Arduino projects, IoT, and creative problem solving**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: Python, C, C++
+- Machine Learning: TensorFlow, Keras, Scikit-learn
+- Hardware: Arduino, IoT Sensors
+- Other: Git, VS Code
+
+---
+
+## 📈 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-byte&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/md-ratul-mushfique)
+- [Portfolio]()
+

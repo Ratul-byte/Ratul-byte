@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ratul
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding GIF](3AyY.gif)
 
 ### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
 

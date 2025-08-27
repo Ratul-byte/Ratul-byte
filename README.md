@@ -15,7 +15,7 @@ I also enjoy **Arduino projects, IoT, and creative problem solving**.
 ---
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-byte&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical)
 
 ---
 

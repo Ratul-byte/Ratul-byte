@@ -19,6 +19,9 @@ I also enjoy **Arduino projects, IoT, and creative problem solving**.
 
 ---
 
+## 🗃️ My Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=gotham)]
+
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/md-ratul-mushfique)
 - [Portfolio]()

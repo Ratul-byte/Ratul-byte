@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ratul
-![Coding GIF]([3AyY.gif](https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif))
+![3AyY.gif](https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif)
 
 ### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
 

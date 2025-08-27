@@ -20,8 +20,37 @@ I also enjoy **Arduino projects, IoT, and creative problem solving**.
 ---
 
 ## 🗃️ My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341)
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ratul-byte/Computer-Graphics-Project-CSE423">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000&description=false" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1000&description=false" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000&description=false" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000&description=false" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/md-ratul-mushfique)

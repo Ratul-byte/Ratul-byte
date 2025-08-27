@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Ratul
 ### 🚀 Aspiring AI Engineer | 💻 ML Enthusiast | 🎨 Creator
 
-Welcome to my profile! I love working with **Machine Learning, Deep Learning, and Computer Vision**.  
-I also enjoy **Arduino projects, IoT, and creative problem solving**.
+I’m passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing**, and I enjoy bringing ideas to life with **Python, TensorFlow, Keras**.
+I also love working on **Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment**.
+When I’m not coding, I like experimenting with creative problem solving, design tools like **Figma**, and exploring new technologies.
 
 ---
 

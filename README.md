@@ -9,7 +9,7 @@ I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligen
 - When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies.
 </p>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ratul-byte)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte)
 
 </div>
 

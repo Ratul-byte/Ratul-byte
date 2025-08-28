@@ -15,7 +15,7 @@ I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligen
 ---
 
 ## 🔧 Skills & Tools
-<div align="center">
+
 🔹 Languages
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=assemblyscript&logoColor=white" /> </p>
 
@@ -28,6 +28,7 @@ I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligen
 🔹 Tools & IDEs
 <p align="left"> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/Replit-37474F?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" /> </p>
 
+<div align="center">
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 </div>
 

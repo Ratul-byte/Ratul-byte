@@ -4,7 +4,7 @@
 <h1 style="font-size: 3em;">Hi there, I'm Ratul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&multiline=true&width=900&lines=I’m+passionate+about+Machine+Learning,+Deep+Learning,+Artificial+Intelligence,+and+Image+Processing.;I+enjoy+bringing+ideas+to+life+with+Python,+TensorFlow,+Keras.;I+also+love+working+on+Arduino,+IoT,+Web+Dev+(HTML,+CSS,+JS,+React,+Flask),+and+Databases+(MySQL,+MongoDB,+Mongoose).;When+I’m+not+coding,+I+like+creative+problem+solving,+using+Figma,+and+exploring+new+tech.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&multiline=true&width=900&lines=I’m+passionate+about+Machine+Learning,+Deep+Learning,+Artificial+Intelligence,+and+Image+Processing.;I+enjoy+bringing+ideas+to+life+with+Python+TensorFlow,+Keras.;I+also+love+working+on+Arduino,+IoT,+Web+Dev+(HTML,+CSS,+JS,+React,+Flask),+and+Databases (MySQL,+MongoDB,+Mongoose).;When+I’m+not+coding,+I+like+creative+problem+solving,+using+Figma,+and+exploring+new+tech.">
 </p>
 
 

@@ -3,12 +3,7 @@
 
 <h1 style="font-size: 3em;">Hi there, I'm Ratul</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&multiline=true&width=900&lines=I’m+passionate+about+Machine+Learning,+Deep+Learning,+Artificial+Intelligence,+and+Image+Processing.;I+enjoy+bringing+ideas+to+life+with+Python+TensorFlow,+Keras.;I+also+love+working+on+Arduino,+IoT,+Web+Dev+(HTML,+CSS,+JS,+React,+Flask),+and+Databases (MySQL,+MongoDB,+Mongoose).;When+I’m+not+coding,+I+like+creative+problem+solving,+using+Figma,+and+exploring+new+tech.">
-</p>
-
-
-
+<p style="font-size: 9em;"> I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>. - I also love working on <b>Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment</b>. - When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies. </p>
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 

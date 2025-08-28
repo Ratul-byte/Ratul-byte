@@ -3,7 +3,7 @@
 
 <h1 style="font-size: 3em;">Hi there, I'm Ratul</h1>
 
-<p style="font-size: 9em;"> I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>. - I also love working on <b>Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment</b>. - When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies. </p>
+<h3 style="font-size: 5em;"> I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>. - I also love working on <b>Arduino projects, IoT solutions, web development (HTML, CSS, JavaScript, React, Flask), database management (MySQL, MongoDB, Mongoose), and software deployment</b>. - When I’m not coding, I like experimenting with creative problem solving, design tools like <b>Figma</b>, and exploring new technologies. </h3>
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 

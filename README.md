@@ -1,7 +1,7 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/ebd5ac4a7f719fc7506d3e13e67f9413b820ff79/helloWrld.jpg">
 <div align="center">
 
-<h1 style="font-size: 3em;">Hi there 👋, I'm Ratul <img src="https://raw.githubusercontent.com/Ratul-byte/Ratul-byte/e11fc100b25170e0c5096c92668a26a44aac65b2/3Qb4.gif" alt="3Qb4 GIF" /></h1>
+<h1 style="font-size: 3em;">Hi there 👋, I'm Ratul <img src="https://github.com/Ratul-byte/Ratul-byte/e11fc100b25170e0c5096c92668a26a44aac65b2/3Qb42.gif" alt="3Qb42 GIF" /></h1>
 
 <p style="font-size: 9em;">
 I’m passionate about <b>Machine Learning, Deep Learning, Artificial Intelligence, and Image Processing</b>, and I enjoy bringing ideas to life with <b>Python, TensorFlow, Keras</b>.  

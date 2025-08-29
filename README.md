@@ -3,7 +3,7 @@
 
 <h1 style="font-size: 3em;">Hi there, I'm Ratul</h1>
 
-![Intro Animation](A.png)
+![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 

@@ -2,9 +2,9 @@
 <div align="center">
 
 <h1 style="font-size: 3em;">Hi there, I'm Ratul</h1>
--
+
 ![Intro Animation](A.png)
--
+
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte)

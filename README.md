@@ -1,9 +1,12 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/ebd5ac4a7f719fc7506d3e13e67f9413b820ff79/helloWrld.jpg">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&vCenter=true&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&vCenter=true&repeat=false&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
 
-![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)
+---
+
+<!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
+<h2>I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮</h2>
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 

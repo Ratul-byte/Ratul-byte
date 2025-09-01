@@ -1,7 +1,7 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/ebd5ac4a7f719fc7506d3e13e67f9413b820ff79/helloWrld.jpg">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&vCenter=true&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
 
 ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)
 

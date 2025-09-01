@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&vCenter=true&repeat=false&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
 
--
+--
 <!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
 <p>I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮</p>
 
@@ -19,9 +19,6 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/YOUR_WORKSPACE/signup)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
-</div>
-
----
 
 ## 🔧 Skills & Tools
 
@@ -36,6 +33,8 @@
 
 🔹 Tools & IDEs
 <p align="left"> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-D6225E?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/Replit-37474F?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" /> </p>
+
+</div>
 
 <div align="center">
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>

@@ -18,7 +18,6 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/YOUR_WORKSPACE/signup)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
----
 
 ## 🔧 Skills & Tools
 
@@ -39,16 +38,10 @@
 <div align="center">
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
-
----
-
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=5)
 
 ![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5)
-
-
----
 
 ## 🗃️ My Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341)

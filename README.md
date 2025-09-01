@@ -6,7 +6,7 @@
 <!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
 ### I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮.
 
-<table style="border: none;">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
       <ul style="font-size: 18px;">

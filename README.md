@@ -1,10 +1,10 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/ebd5ac4a7f719fc7506d3e13e67f9413b820ff79/helloWrld.jpg">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=45&pause=5&color=EAF7F1&center=true&vCenter=true&repeat=true&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&weight=500&size=40&pause=5&color=EAF7F1&center=true&vCenter=true&repeat=true&width=600&lines=Greetings%2C+I+am+Ratul.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Ratul%E3%80%82;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%81%E3%83%A9%E3%83%88%E3%82%A5%E3%83%AB%E3%81%A7%E3%81%99%E3%80%82)](https://git.io/typing-svg)
 
 <!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
-<p style="font-size: 60px;">I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮.</p>
+<p><font size="5">I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮.</font></p>
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 

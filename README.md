@@ -34,9 +34,9 @@
 ---
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats-xd-ratul-mushfiques-projects.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-xd-ratul-mushfiques-projects.vercel.app/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true)
 
 ---
 

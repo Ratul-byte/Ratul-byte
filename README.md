@@ -6,17 +6,17 @@
 <!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
 ### I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮.
 
-<table>
+<table style="border: none;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
-      <ul>
+      <ul style="font-size: 18px;">
         <li>Currently working on a software development project.</li>
         <li>Ask me anything about Machine Learning and Image Processing!</li>
-        <li>Checkout [My Portfolio](https://example.com)</li>
+        <li>Check out my <a href="https://github.com/Ratul-byte">Portfolio</a></li>
       </ul>
     </td>
     <td style="vertical-align: top; width: 50%; text-align: center;">
-      <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
+      <img src="https://raw.githubusercontent.com/Ratul-byte/Ratul-byte/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
       <br>
       <img src="https://komarev.com/ghpvc/?username=ratul-byte" alt="Profile view counter on GitHub" />
     </td>

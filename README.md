@@ -3,13 +3,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&pause=5&color=EAF7F1&center=true&vCenter=true&repeat=false&width=435&lines=Greetings.;I+am+Ratul.)](https://git.io/typing-svg)
 
----
+-
 <!-- ![Intro Animation](https://github.com/Ratul-byte/Ratul-byte/blob/8fc999f7202dc97565cd6335816ba9b2fea30171/A.png)-->
 <p>I'm passionate about Machine Learning, Artificial Intelligence, and Image Processing, with hands-on experience in groundbreaking ML research and crafting innovative solutions. I live to transform ideas into reality through elegant code, designing robust software, and deploying impactful applications. Forever chasing the next big tech breakthrough, I thrive on creative problem-solving and exploring cutting-edge technologies. I love watching Anime 🈁 and Gaming 🎮</p>
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ratul-mushfique)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ratul.mushfique)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/ratul.shk/))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rurouni99)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/YOUR_WORKSPACE/signup)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 </div>
 
@@ -46,12 +54,5 @@
 ## 🗃️ My Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ratul-mushfique)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ratul.mushfique)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/ratul.shk/))
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rurouni99)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/YOUR_WORKSPACE/signup)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 

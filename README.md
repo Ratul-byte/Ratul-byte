@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/ratul.shk/))
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rurouni99)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CFFF?style=for-the-badge&logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Md-Ratul-Mushfique?ev=hdr_xprf)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCFF?style=for-the-badge&logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Md-Ratul-Mushfique?ev=hdr_xprf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdratulmushfique)
 
 
@@ -32,7 +32,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /> </p>
 
 ### 🔹 Tools & IDEs
-<p align="center"> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-D6225E?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/Replit-37474F?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AFFF?style=for-the-badge&logo=google-colab&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> 
+<p align="center"> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-D6225E?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/Replit-37474F?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9ABFF?style=for-the-badge&logo=google-colab&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> 
 
 </div>
 

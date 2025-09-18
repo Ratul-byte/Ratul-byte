@@ -47,7 +47,13 @@
 ## 🗃️ My Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/MetroHub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341) 
 
 </div>
 

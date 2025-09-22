@@ -47,7 +47,7 @@
 
 ![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ratul-byte&theme=gruvbox-duo)(https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ratul-byte&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 
 ![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)
 

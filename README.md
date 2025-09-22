@@ -11,7 +11,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/md-ratul-mushfique)
+[![LinkedIn]("https://custom-icon-badges.demolab.com/badge/LinkedIn-2A97D0?style=for-the-badge&logo=linkedinratulu")](https://www.linkedin.com/in/md-ratul-mushfique)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ratul.mushfique)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ratul.shk)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rurouni99)
@@ -46,6 +46,11 @@
 ![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=5)
 
 ![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ratul-byte&theme=gruvbox-duo)](https://git.io/streak-stats)
+
+### Contributions Bar
+![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)
 
 ## 🗃️ My Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/MetroHub)

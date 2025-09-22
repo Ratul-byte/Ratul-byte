@@ -20,7 +20,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdratulmushfique)
 
 ##### View My Portfolio Here
-[![Portflio](https://img.shields.io/badge/Portfolio-283272?style=for-the-badge&logo=processingfoundation&logoColor=orange)](https://portfolio-z-psi.vercel.app/)
+[![Portflio](https://img.shields.io/badge/Portfolio-283272?style=for-the-badge&logo=processingfoundation&logoColor=orange)](https://ratul-portfolio-mushfique.vercel.app)
 
 
 ## 🔧 Skills & Tools

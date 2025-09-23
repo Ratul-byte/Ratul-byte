@@ -45,7 +45,9 @@
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=5)
 
-![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5)
+<img src="https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5" 
+     alt="Top Languages" 
+     width="500" />
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ratul-byte&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 

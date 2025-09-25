@@ -47,7 +47,7 @@
 
 ![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5&card_width=500)
 
-![GitHub Streak](https://github-readme-streak-stats-f91lqm9wb-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&theme=gruvbox-duo&card_width=500)
+[![GitHub Streak](https://github-readme-streak-stats-f91lqm9wb-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&theme=gruvbox&card_width=500)](https://git.io/streak-stats)
 
 
 ![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)

@@ -43,9 +43,9 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=5)
+![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=100)
 
-![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=5&card_width=500)
+![Top Languages](https://github-readme-stats-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=100&card_width=500)
 
 [![GitHub Streak](https://github-readme-streak-stats-n772vgcol-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&card_width=500&stroke=FF1D5E&ring=C1184E&fire=EB4511&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=FF8F62&sideLabels=FF8F62&dates=EB5454&border=EB5454&background=45%2C760A11%2C310C69C5&count_private=true&cache_seconds=100)](https://git.io/streak-stats)
 

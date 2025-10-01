@@ -40,10 +40,6 @@
 ### 🔹 Tools & IDEs
 <p align="center"> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-D6225E?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <img src="https://img.shields.io/badge/Replit-37474F?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black" /> <img src="https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=roboflow&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-57362E.svg?style=for-the-badge&logo=jupyter&logoColor=orange" /> <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/overleaf-005F0F.svg?style=for-the-badge&logo=overleaf&logoColor=white" /> <img src="https://img.shields.io/badge/eraser-EC2C40.svg?style=for-the-badge&logo=eraser&logoColor=white" /> <img src="https://img.shields.io/badge/rstudio ide-75AADB.svg?style=for-the-badge&logo=rstudioide&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Virual Box-2F61B4.svg?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/Cirkit Ide-6B38E8?style=for-the-badge&logo=cirkit" /> <img src="https://custom-icon-badges.demolab.com/badge/Quartus ii-white?style=for-the-badge&logo=altera" /> </p>
 
-</div>
-
-<div align="center">
-<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=100)
@@ -54,6 +50,8 @@
 
 
 ![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)
+
+<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
 ## 🗃️ My Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/MetroHub)

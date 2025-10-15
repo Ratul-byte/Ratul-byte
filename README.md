@@ -21,6 +21,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RurouniZaSlayah)
 [![ResearchGate](https://img.shields.io/badge/ReasearchGate-61DAFB?style=for-the-badge&logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Md-Ratul-Mushfique?ev=hdr_xprf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdratulmushfique)
+[![Datacamp](https://img.shields.io/badge/Datacamp-eceee8?style=for-the-badge&labelColor=42f866&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/mdratulmushfique)
 
 ##### View My Portfolio Here
 [![Portflio](https://img.shields.io/badge/Portfolio-283272?style=for-the-badge&logo=processingfoundation&logoColor=orange)](https://ratul-portfolio-mushfique.vercel.app)

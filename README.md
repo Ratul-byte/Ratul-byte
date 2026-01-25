@@ -61,6 +61,8 @@
 
 [![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=20)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) 
 
+[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Voice-Assistant-VTC&theme=buefy&cache_seconds=20)](https://github.com/Ratul-byte/Voice-Assistant-VTC) 
+
 [![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Car-Reviews-via-NLP&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Car-Reviews-via-NLP) 
 
 [![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=20)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) 

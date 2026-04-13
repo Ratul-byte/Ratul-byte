@@ -55,21 +55,41 @@
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
 
 ## 🗃️ My Repositories 
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001)](https://github.com/ratul-byte/MetroHub) 
+<p align="center">
+  <a href="https://github.com/ratul-byte/MetroHub">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001" width="400"/>
+  </a>
+  <a href="https://github.com/Ratul-byte/Volt-Watch">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Volt-Watch&theme=buefy&cache_seconds=1001" width="400"/>
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Volt-Watch&theme=buefy&cache_seconds=1001)](https://github.com/Ratul-byte/Volt-Watch)
+<p align="center">
+  <a href="https://github.com/ratul-byte/Computer-Graphics-Project-CSE423">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=20" width="400"/>
+  </a>
+  <a href="https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=20" width="400"/>
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=20)](https://github.com/ratul-byte/Computer-Graphics-Project-CSE423) 
+<p align="center">
+  <a href="https://github.com/Ratul-byte/Voice-Assistant-VTC">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Voice-Assistant-VTC&theme=buefy&cache_seconds=20" width="400"/>
+  </a>
+  <a href="https://github.com/ratul-byte/Car-Reviews-via-NLP">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Car-Reviews-via-NLP&theme=buefy&cache_seconds=1000" width="400"/>
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=20)](https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370) 
-
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Voice-Assistant-VTC&theme=buefy&cache_seconds=20)](https://github.com/Ratul-byte/Voice-Assistant-VTC) 
-
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Car-Reviews-via-NLP&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/Car-Reviews-via-NLP) 
-
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=20)](https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360) 
-
-[![Readme Card](https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000)](https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341) 
+<p align="center">
+  <a href="https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=20" width="400"/>
+  </a>
+  <a href="https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000" width="400"/>
+  </a>
+</p> 
 
 </div>
 

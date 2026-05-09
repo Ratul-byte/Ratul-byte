@@ -63,6 +63,10 @@
     <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=Volt-Watch&theme=buefy&cache_seconds=1001" width="400"/>
   </a>
 </p>
+  <a href="https://github.com/Ratul-byte/TechHub-CodeSprint-Challenge-2026">
+    <img src="https://github-readme-stats-xd.vercel.app/api/pin/?username=ratul-byte&repo=TechHub-CodeSprint-Challenge-2026&theme=buefy&cache_seconds=1001" width="400"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ratul-byte/Computer-Graphics-Project-CSE423">

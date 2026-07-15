@@ -43,9 +43,9 @@
 
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-stats-extended-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=100) 
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Ratul-byte&rank_icon=percentile&include_all_commits=true&theme=calm_pink)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Ratul-byte&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=100)]
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Ratul-byte&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=100)
 
 [![GitHub Streak](https://github-readme-streak-stats-n772vgcol-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&card_width=500&stroke=FF1D5E&ring=C1184E&fire=EB4511&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=FF8F62&sideLabels=FF8F62&dates=EB5454&border=EB5454&background=45%2C760A11%2C310C69C5&count_private=true&cache_seconds=100)](https://git.io/streak-stats)
 

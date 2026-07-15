@@ -45,7 +45,7 @@
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-stats-extended-xd.vercel.app/api?username=ratul-byte&show_icons=true&theme=radical&count_private=true&cache_seconds=100) 
 
-![Top Languages](https://github-stats-extended-xd.vercel.app/api/top-langs/?username=ratul-byte&layout=compact&theme=radical&count_private=true&cache_seconds=100&card_width=500)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Ratul-byte&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=100)]
 
 [![GitHub Streak](https://github-readme-streak-stats-n772vgcol-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&card_width=500&stroke=FF1D5E&ring=C1184E&fire=EB4511&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=FF8F62&sideLabels=FF8F62&dates=EB5454&border=EB5454&background=45%2C760A11%2C310C69C5&count_private=true&cache_seconds=100)](https://git.io/streak-stats)
 
@@ -57,41 +57,41 @@
 ## 🗃️ My Repositories 
 <p align="center">
   <a href="https://github.com/ratul-byte/MetroHub">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=MetroHub&theme=buefy&cache_seconds=1001" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=MetroHub&cache_seconds=1001" width="400"/>
   </a>
   <a href="https://github.com/Ratul-byte/Volt-Watch">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Volt-Watch&theme=buefy&cache_seconds=1001" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Volt-Watch&cache_seconds=1001" width="400"/>
   </a>
 </p>
   <a href="https://github.com/Ratul-byte/TechHub-CodeSprint-Challenge-2026">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=TechHub-CodeSprint-Challenge-2026&theme=buefy&cache_seconds=1001" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=TechHub-CodeSprint-Challenge-2026&cache_seconds=1001" width="400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ratul-byte/Computer-Graphics-Project-CSE423">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Graphics-Project-CSE423&theme=buefy&cache_seconds=20" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Computer-Graphics-Project-CSE423&cache_seconds=20" width="400"/>
   </a>
   <a href="https://github.com/ratul-byte/Database-Project-Online-Flight-Reservation-CSE370">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Database-Project-Online-Flight-Reservation-CSE370&theme=buefy&cache_seconds=20" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Database-Project-Online-Flight-Reservation-CSE370&cache_seconds=20" width="400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ratul-byte/Voice-Assistant-VTC">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Voice-Assistant-VTC&theme=buefy&cache_seconds=20" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Voice-Assistant-VTC&cache_seconds=20" width="400"/>
   </a>
   <a href="https://github.com/ratul-byte/Car-Reviews-via-NLP">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Car-Reviews-via-NLP&theme=buefy&cache_seconds=1000" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Car-Reviews-via-NLP&cache_seconds=1000" width="400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ratul-byte/Computer-Interfacing-Hardware-Project-CSE360">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=Computer-Interfacing-Hardware-Project-CSE360&theme=buefy&cache_seconds=20" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Computer-Interfacing-Hardware-Project-CSE360&cache_seconds=20" width="400"/>
   </a>
   <a href="https://github.com/ratul-byte/8086-Microprocessor-Project-CSE341">
-    <img src="https://github-stats-extended-xd.vercel.app/api/pin/?username=ratul-byte&repo=8086-Microprocessor-Project-CSE341&theme=buefy&cache_seconds=1000" width="400"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=8086-Microprocessor-Project-CSE341&cache_seconds=1000" width="400"/>
   </a>
 </p> 
 

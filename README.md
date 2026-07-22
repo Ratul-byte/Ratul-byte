@@ -49,7 +49,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-n772vgcol-ratul-mushfiques-projects.vercel.app?user=Ratul-byte&card_width=500&stroke=FF1D5E&ring=C1184E&fire=EB4511&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=FF8F62&sideLabels=FF8F62&dates=EB5454&border=EB5454&background=45%2C760A11%2C310C69C5&count_private=true&cache_seconds=100)](https://git.io/streak-stats)
 
-
 ![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
@@ -63,6 +62,9 @@
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Volt-Watch&cache_seconds=1001" width="400"/>
   </a>
 </p>
+  <a href="https://github.com/Ratul-byte/PersonaStudio-AI">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=PersonaStudio-AI&cache_seconds=1001" width="400"/>
+  </a>
   <a href="https://github.com/Ratul-byte/TechHub-CodeSprint-Challenge-2026">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=TechHub-CodeSprint-Challenge-2026&cache_seconds=1001" width="400"/>
   </a>

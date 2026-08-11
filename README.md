@@ -70,9 +70,6 @@
   </a>
 </p> 
 
-</div>
-
-
 ## 🔧 Skills & Tools
 
 ### 🔹 Languages
@@ -98,6 +95,6 @@
 ![snake gif](https://github.com/ratul-byte/ratul-byte/blob/output/github-snake-dark.svg)
 
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
-
+</div>
 
 

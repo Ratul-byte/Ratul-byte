@@ -28,8 +28,8 @@
 
 ## 🗃️ My Repositories 
 <p align="center">
-  <a href="https://github.com/ratul-byte/MetroHub">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=MetroHub&cache_seconds=1001" width="400"/>
+ <a href="https://github.com/Ratul-byte/DR-ROCM-V2">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=DR-ROCM-V2&cache_seconds=1000" width="400"/>
   </a>
   <a href="https://github.com/Ratul-byte/Volt-Watch">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Volt-Watch&cache_seconds=1001" width="400"/>
@@ -56,8 +56,8 @@
   <a href="https://github.com/Ratul-byte/S.A.G.E-Voice-Agent">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=S.A.G.E-Voice-Agent&cache_seconds=20" width="400"/>
   </a>
-  <a href="https://github.com/ratul-byte/Car-Reviews-via-NLP">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=Car-Reviews-via-NLP&cache_seconds=1000" width="400"/>
+  <a href="https://github.com/ratul-byte/MetroHub">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ratul-byte&repo=anuraghazra/github-readme-stats&show_owner=true&theme=nightowl&repo=MetroHub&cache_seconds=1001" width="400"/>
   </a>
 </p>
 

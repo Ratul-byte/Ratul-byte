@@ -11,7 +11,7 @@
 <br>
 <img src="https://github.com/Ratul-byte/Ratul-byte/blob/b0f024a71847e0b349558cec594d757b1f63aef4/3Qb42.gif" alt="3Qb42 GIF" />
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ratul-byte&style=flat-square&color=blue)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinratulu)](https://www.linkedin.com/in/md-ratul-mushfique)
